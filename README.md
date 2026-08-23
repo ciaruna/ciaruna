@@ -1,4 +1,9 @@
-## Hi there 👋
+## Halo teman-teman!👋
+
+Aku **ciaruna** a.k.a **Angela Wowor**<br>
+Saat ini aku adalah seorang mahasiswa **Teknik Informatika** di **Universitas Katolik De La Salle**<br>
+Jika ingin tau lebih lanjut dan berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/angela-wowor-711244428) punyaku ya.🤗
+
 
 <!--
 **ciaruna/ciaruna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
